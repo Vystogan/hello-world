@@ -1,2 +1,3 @@
 # hello-world
-I am doing the github tutorial
+
+I drink a lot of Dr. Pepper.  Probably too much.
